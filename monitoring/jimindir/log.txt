@@ -1,0 +1,5 @@
+[2023-05-23 11:00:17][remove][/Users/yujimin/monitor/#P3_20211431_V3/jimindir/a.txt]
+[2023-05-23 11:00:20][create][/Users/yujimin/monitor/#P3_20211431_V3/jimindir/a.txt]
+[2023-05-23 11:00:26][create][/Users/yujimin/monitor/#P3_20211431_V3/jimindir/new.txt]
+[2023-05-23 11:00:28][remove][/Users/yujimin/monitor/#P3_20211431_V3/jimindir/new.txt]
+[2023-05-23 11:00:48][modify][/Users/yujimin/monitor/#P3_20211431_V3/jimindir/b.txt]
